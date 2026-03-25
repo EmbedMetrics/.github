@@ -2,7 +2,7 @@
 
 **Developer-first embedded analytics**
 
-EmbedMetrics helps SaaS and product teams ship **native embedded dashboards** with **governed metrics** and **safe versioning**.
+EmbedMetrics helps product and engineering teams ship **native embedded dashboards** with **governed metrics** and **safe versioning**.
 
 Built for teams that need:
 - **SDK-native embedding, not iframes** — dashboards render as first-class UI inside the host app
